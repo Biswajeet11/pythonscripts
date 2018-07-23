@@ -1,0 +1,9 @@
+x=[6,2,345,5,6]
+x.append(37)
+print(x)
+x.insert(3,45)
+print(x)
+x.remove(5)
+print(x)
+print(x.index(6))
+print(x.count(6))

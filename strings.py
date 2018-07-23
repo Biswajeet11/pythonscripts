@@ -1,0 +1,6 @@
+print('we\'re going to the space')
+print('hi'+'there')
+print('hi','there')
+print('hi'*5)
+print(int('8')+5)
+print(float('6.5')+5)
